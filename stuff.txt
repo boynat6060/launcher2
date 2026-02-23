@@ -1,0 +1,7 @@
+content container rgb value : (107, 107, 220)
+
+For images and text under images in line as links:  display: flex;
+                                                    justify-content: center;
+                                                    flex:wrap
+
+Sourcing styles:  <link rel="stylesheet" href="styles.css">
